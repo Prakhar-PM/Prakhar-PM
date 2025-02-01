@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-pm&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-pm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prakharmis44015" target="blank"><img src="https://img.shields.io/twitter/follow/prakharmis44015?logo=twitter&style=for-the-badge" alt="prakharmis44015" /></a> </p>
+
 
 - 📫 How to reach me **prakhar0pm@gmail.com**
 
