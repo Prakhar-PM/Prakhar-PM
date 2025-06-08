@@ -67,6 +67,20 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
 <img src="https://leetcard.jacoblin.cool/Prakhar_m04?theme=dark&font=Montserrat&ext=heatmap" width="400" alt="LeetCode Stats"> 
 </div>
 
+🧩 GeeksforGeeks Profile
+<div align="center" style="padding: 15px; background-color: #1F1F1F; border-radius: 10px;"> 
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" height="30" alt="GFG" style="vertical-align: middle; margin-right: 10px;">
+  <span style="color: #2F8D46; font-size: 22px; font-weight: bold;">GeeksforGeeks</span>
+  <span style="color: #00E676; font-size: 18px; margin-left: 15px;">@prakhatsfb</span>
+  <br><br>
+  <a href="https://www.geeksforgeeks.org/user/prakhatsfb/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/prakhatsfb/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/Practice_Problems-100+-orange?style=for-the-badge&logo=geeksforgeeks" alt="GFG Problems">
+  </a>
+</div>
+
 🐍 Contribution Snake
 <p align="center"> <img src="snake.svg" alt="GitHub Contribution Snake" width="100%"> </p>
 
