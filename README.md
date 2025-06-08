@@ -73,10 +73,10 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
   <span style="color: #2F8D46; font-size: 22px; font-weight: bold;">GeeksforGeeks</span>
   <span style="color: #00E676; font-size: 18px; margin-left: 15px;">@prakhatsfb</span>
   <br><br>
-  <a href="https://www.geeksforgeeks.org/user/prakhatsfb/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/prakhatsfb" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile">
   </a>
-  <a href="https://www.geeksforgeeks.org/user/prakhatsfb/practice/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/prakhatsfb/practice" target="_blank">
     <img src="https://img.shields.io/badge/Practice_Problems-100+-orange?style=for-the-badge&logo=geeksforgeeks" alt="GFG Problems">
   </a>
 </div>
