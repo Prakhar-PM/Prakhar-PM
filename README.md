@@ -10,7 +10,6 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
 
 📫 Reach me at: prakhar0pm@gmail.com
 
-<div align="right"> <img src="giphy.gif" alt="Coding GIF" height="230" width="230"> </div>
 
 🛠️ Tech Stack
 <p align="left">
@@ -57,6 +56,7 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
   </a>
 </p>
+
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Prakhar-PM&theme=radical&column=6&margin-w=15&margin-h=15"/> </p>
 
@@ -80,6 +80,9 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
     <img src="https://img.shields.io/badge/Practice_Problems-100+-orange?style=for-the-badge&logo=geeksforgeeks" alt="GFG Problems">
   </a>
 </div>
+
+<div align="center" size="50px"> <img src="giphy.gif" alt="Coding GIF" height="230" width="230"> </div>
+
 
 🐍 Contribution Snake
 <p align="center"> <img src="snake.svg" alt="GitHub Contribution Snake" width="100%"> </p>
