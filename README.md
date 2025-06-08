@@ -1,6 +1,8 @@
 Hi, I'm Prakhar Mishra 👋
 
-<div align="center"> <img src="./prakhar.png" alt="Prakhar Mishra" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;"> </div>
+<div align="center"> 
+  <img src="./prakhar.png" alt="Prakhar Mishra" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+</div>
 
 I'm a passionate Software Developer focused on building efficient, user-friendly, and scalable applications. I enjoy working with C++, JavaScript, and other modern web technologies. My interests span system design, machine learning, and solving algorithmic problems that mirror real-world challenges.
 
