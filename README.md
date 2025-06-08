@@ -1,27 +1,16 @@
-<h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+Hi, I'm Prakhar Mishra 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakhar-pm&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-pm" />
-</p>
+<div align="center"> <img src="./prakhar.png" alt="Prakhar Mishra" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;"> </div>
 
----
+I'm a passionate Software Developer focused on building efficient, user-friendly, and scalable applications. I enjoy working with C++, JavaScript, and other modern web technologies. My interests span system design, machine learning, and solving algorithmic problems that mirror real-world challenges.
 
-- 📫 **Reach me at:** prakhar0pm@gmail.com  
-- ⚡ **Fun fact:** I think I am 😄
+💡 I’m always open to collaboration, learning new skills, and contributing to impactful tech projects.
 
----
+📫 Reach me at: prakhar0pm@gmail.com
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/prakharmis44015" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+<div align="right"> <img src="giphy.gif" alt="Coding GIF" height="230" width="230"> </div>
 
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
+🛠️ Tech Stack
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -66,222 +55,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-pm&layout=compact&theme=default" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhar-pm&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-pm&theme=default" alt="GitHub Streak" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Prakhar-PM&theme=radical&column=6&margin-w=15&margin-h=15"/> </p>
+
+🧩 LeetCode Stats
+<div align="center" style="padding: 15px; background-color: #1F1F1F; border-radius: 10px;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" style="vertical-align: middle; margin-right: 10px;"> 
+<span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span> <span style="color: #00E676; font-size: 18px; margin-left: 15px;">@Prakhar_m04</span> <br><br> 
+<img src="https://leetcard.jacoblin.cool/Prakhar_m04?theme=dark&font=Montserrat&ext=heatmap" width="400" alt="LeetCode Stats"> 
+</div>
+
+🐍 Contribution Snake
+<p align="center"> <img src="snake.svg" alt="GitHub Contribution Snake" width="100%"> </p>
+
+📜 Random Quote
+"Programming is like writing a book... except if you miss a single comma on page 126, the whole thing crashes."
+— Anonymous
