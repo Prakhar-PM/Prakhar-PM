@@ -4,12 +4,19 @@ Hi, I'm Prakhar Mishra 👋
   <img src="./prakhar.png" alt="Prakhar Mishra" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
 </div>
 
+<div>
+  <p>__________________________________________________________________________________________</p>
+</div>
+
 I'm a passionate Software Developer focused on building efficient, user-friendly, and scalable applications. I enjoy working with C++, JavaScript, and other modern web technologies. My interests span system design, machine learning, and solving algorithmic problems that mirror real-world challenges.
 
 💡 I’m always open to collaboration, learning new skills, and contributing to impactful tech projects.
 
 📫 Reach me at: prakhar0pm@gmail.com
 
+<div>
+  <p>__________________________________________________________________________________________</p>
+</div>
 
 🛠️ Tech Stack
 <p align="left">
@@ -56,9 +63,19 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
   </a>
 </p>
+<div>
+
+ <p>__________________________________________________________________________________________</p>
+  
+</div>
+<div align="center" size="50px"> <img src="giphy.gif" alt="Coding GIF" height="230" width="230"> </div>
+
+
 
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Prakhar-PM&theme=radical&column=6&margin-w=15&margin-h=15"/> </p>
+
+<p>__________________________________________________________________________________________</p>
 
 🧩 LeetCode Stats
 <div align="center" style="padding: 15px; background-color: #1F1F1F; border-radius: 10px;"> 
@@ -66,6 +83,8 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
 <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span> <span style="color: #00E676; font-size: 18px; margin-left: 15px;">@Prakhar_m04</span> <br><br> 
 <img src="https://leetcard.jacoblin.cool/Prakhar_m04?theme=dark&font=Montserrat&ext=heatmap" width="400" alt="LeetCode Stats"> 
 </div>
+
+<p>__________________________________________________________________________________________</p>
 
 🧩 GeeksforGeeks Profile
 <div align="center" style="padding: 15px; background-color: #1F1F1F; border-radius: 10px;"> 
@@ -81,11 +100,13 @@ I'm a passionate Software Developer focused on building efficient, user-friendly
   </a>
 </div>
 
-<div align="center" size="50px"> <img src="giphy.gif" alt="Coding GIF" height="230" width="230"> </div>
 
+<p>__________________________________________________________________________________________</p>
 
 🐍 Contribution Snake
 <p align="center"> <img src="snake.svg" alt="GitHub Contribution Snake" width="100%"> </p>
+
+<p>__________________________________________________________________________________________</p>
 
 📜 Random Quote
 "Programming is like writing a book... except if you miss a single comma on page 126, the whole thing crashes."
